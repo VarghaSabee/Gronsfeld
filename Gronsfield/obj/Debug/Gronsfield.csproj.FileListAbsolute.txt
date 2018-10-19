@@ -1,0 +1,10 @@
+C:\Users\89502\source\repos\Gronsfield\Gronsfield\bin\Debug\Gronsfield.exe.config
+C:\Users\89502\source\repos\Gronsfield\Gronsfield\bin\Debug\Gronsfield.exe
+C:\Users\89502\source\repos\Gronsfield\Gronsfield\bin\Debug\Gronsfield.pdb
+C:\Users\89502\source\repos\Gronsfield\Gronsfield\obj\Debug\Gronsfield.csprojAssemblyReference.cache
+C:\Users\89502\source\repos\Gronsfield\Gronsfield\obj\Debug\Gronsfield.Form1.resources
+C:\Users\89502\source\repos\Gronsfield\Gronsfield\obj\Debug\Gronsfield.Properties.Resources.resources
+C:\Users\89502\source\repos\Gronsfield\Gronsfield\obj\Debug\Gronsfield.csproj.GenerateResource.cache
+C:\Users\89502\source\repos\Gronsfield\Gronsfield\obj\Debug\Gronsfield.csproj.CoreCompileInputs.cache
+C:\Users\89502\source\repos\Gronsfield\Gronsfield\obj\Debug\Gronsfield.exe
+C:\Users\89502\source\repos\Gronsfield\Gronsfield\obj\Debug\Gronsfield.pdb
